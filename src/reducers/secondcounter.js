@@ -11,5 +11,6 @@ const secondcounterReducer = (state = 1,action) => {
 
 //DimGryp comment
 //JGryp comment
+//DimGryp 2nd comment
 
 export default secondcounterReducer
