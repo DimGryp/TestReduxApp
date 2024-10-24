@@ -11,6 +11,13 @@ const firstcounterReducer = (state = 1,action) => {
 
 //comment
 //my comment
+
 //my comment 2
 //my comment 6
+
+//2nd comment
+//3rd comment
+//4th comment
+//5th comment
+
 export default firstcounterReducer
