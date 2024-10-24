@@ -12,4 +12,5 @@ const firstcounterReducer = (state = 1,action) => {
 //comment
 //my comment
 //my comment 2
+//my comment 6
 export default firstcounterReducer
