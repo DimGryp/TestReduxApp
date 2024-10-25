@@ -16,6 +16,7 @@ import rootReducer from './reducers/index'
   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__() 
 ) */
 //comment
+//comment 2
 const store=configureStore({reducer: rootReducer})
 
   const root = ReactDOM.createRoot(document.getElementById('root'));
